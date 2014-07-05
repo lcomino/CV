@@ -31,4 +31,4 @@ github: [https://github.com/lcomino](https://github.com/lcomino "pessoal")
 --- 
   
 Sentiu falta de algo importante em meu currículo?  
-[Envie-me uma mensagem ](https://github.com/inbox/new/lcomino "Envie-me uma mensagem ") e ajude-me a melhora-lo.
+[Envie-me uma mensagem ](mailto:lcomino3d@gmail.com "Envie-me uma mensagem ") e ajude-me a melhora-lo.
