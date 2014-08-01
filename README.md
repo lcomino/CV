@@ -4,7 +4,9 @@
 
 Local: Maringá - Paraná | Idade: 27 anos
 
-Sou desenvolvedor web a mais de 3 anos, estou sempre buscando me atualizar com as novas tecnologias. Sou apaixonado pelo que faço e não me vejo fazendo outra coisa na vida.
+Casado e pai de uma menina de 6 anos.
+
+Sou desenvolvedor web a mais de 3 anos, estou sempre buscando me atualizar com as novas tecnologias, e como um sou apaixonado pelo que faço e não me vejo fazendo outra coisa na vida.
 Também trabalho com desenvolvimento de layouts para sites e aplicativos mobile.
 
 Atualmente trabalho na [InovaClick](http://www.inovaclick.com.br "Link") desenvolvendo sites para diversos tipos de empresa e em um projeto pessoal [Zoidepomba](http://zoidepomba.com.br "link").
