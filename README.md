@@ -4,10 +4,10 @@
 
 Local: Maringá - Paraná | Idade: 27 anos
 
-Sou desenvolvedor web a mais de 3 anos, estou sempre buscando me atualizar com as novas tecnologias. Sou apaixonado pelo que faço e não me vejo fazendo outra coisa.
-Também trabalho com desendolvimento de layouts para sites e aplicativos mobile.
+Sou desenvolvedor web a mais de 3 anos, estou sempre buscando me atualizar com as novas tecnologias. Sou apaixonado pelo que faço e não me vejo fazendo outra coisa na vida.
+Também trabalho com desenvolvimento de layouts para sites e aplicativos mobile.
 
-Atualmente trabalho na InovaClick desenvolvendo sites para diversos tipos de empresa [InovaClick](http://www.inovaclick.com.br "Link") e em um projeto pessoal [Zoidepomba](http://zoidepomba.com.br "link")
+Atualmente trabalho na [InovaClick](http://www.inovaclick.com.br "Link") desenvolvendo sites para diversos tipos de empresa e em um projeto pessoal [Zoidepomba](http://zoidepomba.com.br "link").
 
 blog-projeto: [http://www.zoidepomba.com.br](http://www.zoidepomba.com.br "Projeto")  
 twitter: [@lcomino](http://twitter.com/lcomino "pessoal")  
@@ -25,10 +25,10 @@ github: [https://github.com/lcomino](https://github.com/lcomino "pessoal")
 
 ## Formação
 
-* Graduado em Administração pela (FACIG - Paraguaçu Paulista)
+* Graduado em Administração pela (Faculdade de Ciências Gerenciais (FACIG) - Paraguaçu Paulista)
 
 
 --- 
   
 Sentiu falta de algo importante em meu currículo?  
-[Envie-me uma mensagem ](mailto:lcomino3d@gmail.com "Envie-me uma mensagem ") e ajude-me a melhora-lo.
+[Envie-me uma mensagem ](mailto:lcomino3d@gmail.com "Envie-me uma mensagem ") e ajude-me a melhorá-lo.
