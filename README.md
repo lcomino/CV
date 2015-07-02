@@ -1,7 +1,5 @@
 # Lucas Comino de Oliveira (CV)
 
-<img src="https://avatars0.githubusercontent.com/u/671356?s=200" />
-
 Local: Maringá - Paraná | Idade: 27 anos
 
 Casado e pai de uma menina de 6 anos.
