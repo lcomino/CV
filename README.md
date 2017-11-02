@@ -2,7 +2,7 @@
 
 Local: Maringá - Paraná | Idade: 30 anos
 
-Casado e pai de uma menina de 10 anos.
+Casado e pai de uma menina de 9 anos.
 
 Sou desenvolvedor web a mais de 5 anos, estou sempre buscando me atualizar com as novas tecnologias, e como um sou apaixonado pelo que faço e não me vejo fazendo outra coisa na vida.
 Também trabalho com desenvolvimento de layouts para sites e aplicativos mobile.
