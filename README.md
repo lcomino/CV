@@ -17,6 +17,9 @@ github: [https://github.com/lcomino](https://github.com/lcomino "pessoal")
 * jQuery (8 anos)
 * Javascript (8 anos)
 * HTML e CSS (LESS|SASS) (8 anos)
+* ASP.NET/C# (7 anos)
+* Java/Android (6 anos)
+* iOS Swift (2 meses)
 * Sistemas de controle de versão (git, svn)
 * Desenvolvimento Ágil
 * Inglês suficiente para ler e entender.
