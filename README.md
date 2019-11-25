@@ -1,24 +1,22 @@
 # Lucas Comino de Oliveira (CV)
 
-Local: Maringá - Paraná | Idade: 30 anos
+Local: Maringá - Paraná | Idade: 32 anos
 
-Casado e pai de uma menina de 9 anos.
+Casado e pai de uma menina de 11 anos.
 
-Sou desenvolvedor web a mais de 5 anos, estou sempre buscando me atualizar com as novas tecnologias, e como um sou apaixonado pelo que faço e não me vejo fazendo outra coisa na vida.
-Também trabalho com desenvolvimento de layouts para sites e aplicativos mobile.
+Sou desenvolvedor web a mais de 8 anos, estou sempre buscando me atualizar com as novas tecnologias. Apaixonado pelo que faço, quero muito aprender sempre.
 
-Atualmente trabalho na [InovaClick](http://www.inovaclick.com.br "Link") desenvolvendo sites para diversos tipos de empresa e em um projeto pessoal [Zoidepomba](http://zoidepomba.com.br "link").
+Atualmente trabalho na [InovaClick](http://www.inovaclick.com.br "Link"). Atuo no desenvolvimento e manutenção de sites em Wordpress, manutenção e desenvolvimento no sistema ERP DNET, manutenção e desenvolvimento de aplicativos Mobile em Android e iOS.
 
-blog-projeto: [http://www.zoidepomba.com.br](http://www.zoidepomba.com.br "Projeto")  
 twitter: [@lcomino](http://twitter.com/lcomino "pessoal")  
 github: [https://github.com/lcomino](https://github.com/lcomino "pessoal")  
 
 ## Conhecimentos
 
-* PHP (6 anos)
-* jQuery (6 anos)
-* Javascript (6 anos)
-* HTML e CSS (LESS|SASS) (5 anos)
+* PHP (8 anos)
+* jQuery (8 anos)
+* Javascript (8 anos)
+* HTML e CSS (LESS|SASS) (8 anos)
 * Sistemas de controle de versão (git, svn)
 * Desenvolvimento Ágil
 * Inglês suficiente para ler e entender.
