@@ -8,7 +8,7 @@ Sou desenvolvedor web a mais de 8 anos, estou sempre buscando me atualizar com a
 
 Atualmente trabalho na [Premium Ads](http://www.premiumads.com.br.com.br "Link"). Entrei como Technical Account Manager para dar suporte para os Account Managers na parte técnica da implementação dos anúncios, fui promovido para Key Account Manager com 6 meses de empresa, passando a atuar itegralmente nos maiores clientes da empresa, tanto no suporte comercial quanto no suporte técnico. Atualmente atuo como Head of Customer Success, cuidando do setor de CS da empresa, em contato direto com a diretoria, tocando projetos para o setor e visando o crescimento da empresa. Ainda atuo como Key Account Manager, com uma carteira menor de clientes, mas atendendo os principais clientes da empresa.
 
-Minha experiência anterior foi na [InovaClick](http://www.inovaclick.com.br "Link"), onde trabalhie por 8 anos. Atuei na área de desenvolvimento e manutenção de sites em Wordpress, manutenção e desenvolvimento no sistema ERP DNET (.NET/Asp.NET/Firebird), manutenção e desenvolvimento de aplicativos Mobile em Android e iOS.
+Minha experiência anterior foi na [InovaClick](http://www.inovaclick.com.br "Link"), onde trabalhei por 8 anos. Atuei na área de desenvolvimento e manutenção de sites em Wordpress, manutenção e desenvolvimento no sistema ERP DNET (.NET/Asp.NET/Firebird), manutenção e desenvolvimento de aplicativos Mobile em Android e iOS.
 Na InovaClick atuei como Scrum Master e participei no processo de certificação MPS.BR nível F.
 
 twitter: [@lcomino](http://twitter.com/lcomino "pessoal")  
